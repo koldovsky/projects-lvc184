@@ -107,14 +107,14 @@ app.service('studentService', ['$q', function ($q) {
         {
             "name": "Serhii Kovdrya",
             "websiteUrl": "http://kovdrja.github.io/MyFirstWebsite",
-            "codeSourceUrl": "https://github.com/Krokhmalnyi/ITAcademy",
+            "codeSourceUrl": "https://github.com/kovdrja/MyFirstWebsite",
             "photo": "images/students/kovdrya.jpg",
             "cvUrl": 0
         },
         {
             "name": "Serhii Krokhmalnyi",
             "websiteUrl": "http://krokhmalnyi.github.io/ITAcademy",
-            "codeSourceUrl": 0,
+            "codeSourceUrl": "https://github.com/Krokhmalnyi/ITAcademy",
             "photo": "images/students/krohmalniy.jpg",
             "cvUrl": 0
         },
@@ -225,8 +225,8 @@ app.service('studentService', ['$q', function ($q) {
         },
         {
             "name": "Viktoriia Volianska",
-            "websiteUrl": 0,
-            "codeSourceUrl": 0,
+            "websiteUrl": "http://gagarina.github.io/personal-page/",
+            "codeSourceUrl": "https://github.com/gagarina/personal-page",
             "photo": "images/students/volianska.jpg",
             "cvUrl": "https://drive.google.com/file/d/0B8sJ_wPUdIlxVG12bUF3bzZjZGs/view?usp=sharing"
         },
